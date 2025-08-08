@@ -1,5 +1,5 @@
 # Dayvied
-# Dayvied
+
 # Hi, I'm Korole David 👋
 
 I'm a **Full Stack Developer** passionate about building functional, user-centered applications across both **web** and **mobile** platforms. From pixel-perfect frontend experiences to scalable backend systems, I build solutions that deliver value.
